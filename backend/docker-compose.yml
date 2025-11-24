@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: email-agent-backend
+    ports:
+      - "8000:8000"
+    environment:
+      # Application settings
+      - APP_NAME=Email Productivity Agent
+      - DEBUG=false
+      - APP_ENV=production
+      
+      # CORS settings (update with your frontend URL)
+      - CORS_ORIGINS=http://localhost:3000,https://your-frontend-domain.com
+      
+      # Database settings
+      - DATABASE_URL=sqlite:///./data/email_agent.db
+      
+      # OpenAI API settings (provide via .env file or secrets)
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4}
+      
+      # LLM settings
+      - LLM_MAX_RETRIES=${LLM_MAX_RETRIES:-3}
+      - LLM_TIMEOUT=${LLM_TIMEOUT:-30}
+    volumes:
+      # Persist database and data
+      - ./data:/app/data
+      # Optional: Mount mock inbox data
+      - ./data/mock_inbox.json:/app/data/mock_inbox.json:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    networks:
+      - email-agent-network
+
+networks:
+  email-agent-network:
+    driver: bridge
+
+volumes:
+  backend-data:
+    driver: local

@@ -1,0 +1,110 @@
+[
+  {
+    "sender": "sarah.johnson@techcorp.com",
+    "subject": "Q4 Planning Meeting - Action Required",
+    "body": "Hi Team,\n\nWe need to schedule our Q4 planning meeting for next week. Please review the attached agenda and confirm your availability for Tuesday, November 26th at 2:00 PM EST.\n\nKey topics:\n- Budget allocation for new projects\n- Resource planning\n- Timeline review\n\nPlease respond by EOD Friday.\n\nBest regards,\nSarah Johnson\nProject Manager",
+    "timestamp": "2025-11-20T09:15:00Z"
+  },
+  {
+    "sender": "newsletter@techinsider.com",
+    "subject": "Weekly Tech Digest: AI Breakthroughs and Cloud Innovations",
+    "body": "Welcome to this week's Tech Insider Newsletter!\n\nTop Stories:\n1. New AI model achieves breakthrough in natural language understanding\n2. Cloud computing costs expected to rise in 2026\n3. Cybersecurity trends you need to know\n4. The future of remote work technology\n\nRead more at techinsider.com\n\nUnsubscribe | Manage Preferences",
+    "timestamp": "2025-11-20T06:00:00Z"
+  },
+  {
+    "sender": "no-reply@lottery-winner.biz",
+    "subject": "CONGRATULATIONS! You've Won $5,000,000!!!",
+    "body": "Dear Lucky Winner,\n\nYou have been selected as the winner of our international lottery! To claim your prize of $5,000,000, please send your bank details and a processing fee of $500 to the following address...\n\nACT NOW! This offer expires in 24 hours!\n\nClick here to claim your prize: http://suspicious-link.biz",
+    "timestamp": "2025-11-19T23:45:00Z"
+  },
+  {
+    "sender": "mike.chen@clientcompany.com",
+    "subject": "Urgent: Bug in Production - Need Fix ASAP",
+    "body": "Hi,\n\nWe're experiencing a critical bug in the production environment. Users are unable to complete checkout transactions. This is affecting revenue.\n\nCan you please:\n1. Investigate the issue immediately\n2. Provide an ETA for the fix\n3. Send a status update every hour\n\nThis needs to be resolved by end of day today.\n\nThanks,\nMike Chen\nCTO, Client Company",
+    "timestamp": "2025-11-20T10:30:00Z"
+  },
+  {
+    "sender": "hr@company.com",
+    "subject": "Reminder: Complete Your Annual Performance Review",
+    "body": "Dear Employee,\n\nThis is a friendly reminder that your annual performance review self-assessment is due by November 25th, 2025.\n\nPlease log into the HR portal and complete:\n- Self-assessment form\n- Goal setting for next year\n- Skills development plan\n\nIf you have any questions, please contact the HR department.\n\nBest regards,\nHuman Resources",
+    "timestamp": "2025-11-19T14:00:00Z"
+  },
+  {
+    "sender": "deals@amazingdeals.com",
+    "subject": "🔥 BLACK FRIDAY EARLY ACCESS - 80% OFF EVERYTHING! 🔥",
+    "body": "DON'T MISS OUT!!!\n\n⭐ 80% OFF SITEWIDE ⭐\n⭐ FREE SHIPPING ⭐\n⭐ LIMITED TIME ONLY ⭐\n\nShop now: www.amazingdeals.com\n\nBuy now! Buy now! Buy now!\n\nThis email was sent to you because you signed up for our newsletter. Unsubscribe here.",
+    "timestamp": "2025-11-20T05:30:00Z"
+  },
+  {
+    "sender": "jennifer.williams@company.com",
+    "subject": "Project Alpha Status Update - Week 47",
+    "body": "Hi Team,\n\nHere's the weekly status update for Project Alpha:\n\nCompleted:\n- Database migration (95% complete)\n- API endpoint testing\n- User authentication module\n\nIn Progress:\n- Frontend integration\n- Performance optimization\n\nBlocked:\n- Waiting for design approval from stakeholders\n\nNext Week:\n- Complete frontend integration\n- Begin user acceptance testing\n\nOverall project is on track for December 15th launch.\n\nBest,\nJennifer Williams\nTech Lead",
+    "timestamp": "2025-11-19T16:45:00Z"
+  },
+  {
+    "sender": "david.park@vendor.com",
+    "subject": "Invoice #INV-2025-1147 - Payment Due",
+    "body": "Dear Accounts Payable,\n\nPlease find attached invoice #INV-2025-1147 for consulting services rendered in October 2025.\n\nAmount Due: $12,500.00\nDue Date: December 5, 2025\n\nPayment can be made via wire transfer or check. Please remit payment to the address listed on the invoice.\n\nThank you for your business.\n\nBest regards,\nDavid Park\nVendor Solutions Inc.",
+    "timestamp": "2025-11-18T11:20:00Z"
+  },
+  {
+    "sender": "events@professionaldevelopment.org",
+    "subject": "Invitation: Cloud Architecture Summit 2026",
+    "body": "You're Invited!\n\nCloud Architecture Summit 2026\nMarch 15-17, 2026 | San Francisco, CA\n\nJoin industry leaders for three days of workshops, keynotes, and networking.\n\nEarly Bird Registration: $599 (Save $200)\nRegular Registration: $799\n\nRegister by December 1st to secure early bird pricing.\n\nFeatured Speakers:\n- Jane Smith, AWS Chief Architect\n- Robert Johnson, Google Cloud VP\n- Maria Garcia, Azure Solutions Lead\n\nRegister now: www.cloudarchitecturesummit.com",
+    "timestamp": "2025-11-17T09:00:00Z"
+  },
+  {
+    "sender": "security@company.com",
+    "subject": "URGENT: Security Patch Required - Action by Nov 22",
+    "body": "SECURITY ALERT\n\nA critical security vulnerability has been identified in our systems. All team members must complete the following by November 22, 2025:\n\n1. Update your workstation to the latest security patch\n2. Change your password (minimum 12 characters)\n3. Enable two-factor authentication\n4. Complete security awareness training module\n\nFailure to comply may result in account suspension.\n\nFor assistance, contact IT Security at ext. 5500.\n\nIT Security Team",
+    "timestamp": "2025-11-20T08:00:00Z"
+  },
+  {
+    "sender": "marketing@newsletter-daily.com",
+    "subject": "Your Daily Marketing Tips - November 20",
+    "body": "Good morning!\n\nToday's Marketing Tip: Leverage User-Generated Content\n\nUser-generated content (UGC) is one of the most authentic ways to build trust with your audience. Here's how to get started:\n\n1. Create a branded hashtag\n2. Encourage customers to share their experiences\n3. Feature the best content on your channels\n4. Always credit the original creator\n\nRead the full article: www.newsletter-daily.com/ugc-guide\n\nSee you tomorrow!\nThe Marketing Daily Team",
+    "timestamp": "2025-11-20T07:00:00Z"
+  },
+  {
+    "sender": "robert.taylor@partner.com",
+    "subject": "Re: Partnership Proposal - Next Steps",
+    "body": "Hi,\n\nThank you for the partnership proposal. Our team has reviewed it and we're interested in moving forward.\n\nCan we schedule a call next week to discuss:\n- Contract terms\n- Timeline for implementation\n- Resource allocation\n- Success metrics\n\nI'm available Tuesday or Thursday afternoon. Please let me know what works for you.\n\nLooking forward to working together.\n\nBest,\nRobert Taylor\nBusiness Development Manager",
+    "timestamp": "2025-11-19T13:30:00Z"
+  },
+  {
+    "sender": "support@cloudservice.com",
+    "subject": "Your Support Ticket #45892 Has Been Resolved",
+    "body": "Hello,\n\nYour support ticket #45892 regarding \"Database connection timeout errors\" has been resolved.\n\nSolution Summary:\nWe identified that the connection pool was exhausted due to unclosed connections. We've increased the pool size and implemented automatic connection cleanup.\n\nThe issue should now be resolved. Please verify and let us know if you continue to experience problems.\n\nIf you're satisfied with the resolution, please take a moment to rate your support experience.\n\nThank you,\nCloudService Support Team",
+    "timestamp": "2025-11-19T10:15:00Z"
+  },
+  {
+    "sender": "admin@spambot.ru",
+    "subject": "Increase Your Website Traffic by 10000% GUARANTEED",
+    "body": "Hello webmaster,\n\nWe can increase your website traffic by 10000% GUARANTEED or your money back!!!\n\nOur secret method uses advanced SEO techniques that Google doesn't want you to know about.\n\nSpecial price today only: $99 (normally $999)\n\nOrder now and get:\n- 1 million visitors per month\n- Top ranking on Google\n- Social media followers\n- Email list building\n\nClick here to order: http://shady-seo.ru\n\nDon't miss this opportunity!!!",
+    "timestamp": "2025-11-18T22:10:00Z"
+  },
+  {
+    "sender": "lisa.anderson@company.com",
+    "subject": "Team Lunch Next Friday - RSVP",
+    "body": "Hey team!\n\nLet's do a team lunch next Friday, November 29th at 12:30 PM to celebrate our successful project launch!\n\nLocation: The Italian Garden Restaurant\n123 Main Street\n\nPlease RSVP by Wednesday so I can make a reservation.\n\nDietary restrictions? Let me know!\n\nLooking forward to it!\n\nLisa",
+    "timestamp": "2025-11-19T15:20:00Z"
+  },
+  {
+    "sender": "billing@cloudprovider.com",
+    "subject": "Your November Invoice is Ready - $2,847.50",
+    "body": "Hello,\n\nYour invoice for November 2025 is now available.\n\nAccount: Cloud Services Pro\nInvoice Number: INV-2025-11-20-8472\nAmount Due: $2,847.50\nDue Date: December 10, 2025\n\nService Breakdown:\n- Compute instances: $1,200.00\n- Storage: $450.00\n- Data transfer: $897.50\n- Support plan: $300.00\n\nView detailed invoice: https://billing.cloudprovider.com/invoice/8472\n\nPayment will be automatically charged to your card on file.\n\nQuestions? Contact our billing team.\n\nThank you,\nCloud Provider Billing",
+    "timestamp": "2025-11-20T01:00:00Z"
+  },
+  {
+    "sender": "recruiter@techtalent.com",
+    "subject": "Exciting Senior Developer Opportunity",
+    "body": "Hi,\n\nI came across your profile and thought you'd be a great fit for a Senior Developer position at one of our top clients.\n\nPosition: Senior Full Stack Developer\nLocation: Remote (US-based)\nSalary: $150K - $180K + equity\n\nRequirements:\n- 5+ years experience with React and Node.js\n- Strong system design skills\n- Experience with cloud platforms (AWS/Azure)\n\nThis is a fast-growing startup with excellent benefits and work-life balance.\n\nInterested in learning more? Let's schedule a quick call.\n\nBest,\nEmily Chen\nTech Talent Recruiters",
+    "timestamp": "2025-11-18T14:45:00Z"
+  },
+  {
+    "sender": "james.wilson@company.com",
+    "subject": "Code Review Request - PR #342",
+    "body": "Hi,\n\nI've submitted PR #342 for the new authentication feature. Could you please review when you get a chance?\n\nChanges include:\n- JWT token implementation\n- Refresh token logic\n- Password reset flow\n- Unit tests (95% coverage)\n\nThe PR is ready to merge once approved. I'd like to deploy this by end of week if possible.\n\nGitHub link: https://github.com/company/repo/pull/342\n\nThanks!\nJames",
+    "timestamp": "2025-11-20T11:00:00Z"
+  }
+]
